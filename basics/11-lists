@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la /home/idris/student_projects/holbertonschool-shell/basics  .. /boot
+ls -laUX $PWD .. /boot
